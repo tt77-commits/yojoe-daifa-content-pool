@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yojoe-daifa-pool-20261106
+    name: yojoe-daifa-content-pool
     runtime: static
     buildCommand: test -s index.html
     staticPublishPath: .
